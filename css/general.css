@@ -343,8 +343,13 @@ footer {
 	padding-bottom: 8em;
 }
 
+.middle {
+	padding-bottom: 2em;
+}
 .last {
-	padding-bottom: 6em;
+    padding-bottom: 7em;
+    padding-top: 1em;
+	width:72%;
 }
 .titlewebitem {
 	color: #F15A24;
@@ -458,8 +463,8 @@ button {
 }
 
 .gamesidebar {
-	width: 50%;
-	padding-top: 1em;
+    padding-top: 2em;
+    width: 45%;
 }
 .gameone {
 	margin: 0;
@@ -479,6 +484,10 @@ object {
 	height:338px;
 	
 	
+}
+
+.container-popcorn {
+	margin-top: 2em;
 }
 /*****************************************************/
 /*CSS for logos.html*/
