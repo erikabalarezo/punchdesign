@@ -37,7 +37,8 @@ include 'includes/wrapper-top.php';
 				<ul>
 					<li>Adobe Illustrator</li>
 					<li>Adobe Flash</li>
-					<li>Actionscript</li>	
+					<li>Actionscript</li>
+					
 				</ul>
 			</div>
 			
