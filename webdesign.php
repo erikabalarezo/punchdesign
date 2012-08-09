@@ -8,23 +8,24 @@ include 'includes/wrapper-top.php';
 	    <h2 class="webdesign">Web Design</h2>
     	<div class="maincontent">
 			<div class="webitem">
-				<h3>Title:</h3>
-				<h4 class="titlewebitem">CJE Radio Station Home Page</h4>
+				<h3>Title: <span class="titlewebitem">CJE Radio Station Home Page></span></h3>
 				<h3 class="programsused">Programs Used:</h3>
-				<p>Adobe Photoshop</p>
-				<p>Adobe Illustrator</p>
-				
+				<ul>
+					<li>Adobe Photoshop</li>
+					<li>Adobe Illustrator</li>
+				</ul>
 				
 				
 			</div>
 			
 			<div class="webitem last">
-				<h3>Title:</h3>
-				<h4 class="titlewebitem">Ottawa Tour Kiosk</h4>
+				<h3>Title: <span class="titlewebitem">Ottawa Tour Kiosk</span></h3>
 				<h3 class="programsused">Programs Used:</h3>
-				<p>Adobe Photoshop</p>
-				<p>Adobe Illustrator</p>
-				<p>Flash</p>
+				<ul>
+					<li>Adobe Photoshop</li>
+					<li>Adobe Illustrator</li>
+					<li>Flash</li>
+				</ul>
 			</div>
 			
 			
