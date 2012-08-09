@@ -339,6 +339,12 @@ footer {
 	
 }
 
+.designlast {
+    padding-bottom: 12em;
+    padding-top: 4em;
+    width: 72%;
+}
+
 .webitem {
 	padding-bottom: 8em;
 }
@@ -358,6 +364,13 @@ footer {
 .workitemwrapper {
 	margin-top: 2em;
 	margin-bottom: 1em;
+	border: 8px solid  #999999;
+	height:338px;
+	width: 450px;
+	overflow: hidden;
+}
+.workitemwrapperlast {
+	margin-top: 3em;
 	border: 8px solid  #999999;
 	height:338px;
 	width: 450px;
@@ -400,6 +413,7 @@ footer {
 .message {
 	width: 40%;
 	float:left;
+	padding-bottom: 2em;
 }
 
 .emailcall {
@@ -453,6 +467,7 @@ button {
 .about {
 	width: 90%;
 	padding-top: 1em;
+	padding-bottom: 2em;
 	
 }
 /*****************************************************/
