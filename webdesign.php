@@ -18,7 +18,7 @@ include 'includes/wrapper-top.php';
 				
 			</div>
 			
-			<div class="webitem last">
+			<div class="designlast">
 				<h3>Title: <span class="titlewebitem">Ottawa Tour Kiosk</span></h3>
 				<h3 class="programsused">Programs Used:</h3>
 				<ul>
@@ -41,7 +41,7 @@ include 'includes/wrapper-top.php';
             	<img src="slides/radiostation.jpg" alt="Photo of CJE Radio Station Home page">
             </div>
 			
-			<div class="workitemwrapper">
+			<div class="workitemwrapperlast">
             	<img src="slides/ottawakiosk.jpg" alt="Photo of Ottawa Tour Kiosk home page">
             </div>
 			
