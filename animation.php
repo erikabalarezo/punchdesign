@@ -44,7 +44,7 @@ include 'includes/wrapper-top.php';
 				</ul>
 			</div>
 			
-  </div>
+  		</div>
 		 
   <div class="sidebar gamesidebar">
         	
@@ -109,7 +109,8 @@ include 'includes/wrapper-top.php';
       </object>
     </div>
       <!--popcorn game -->
-    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="600" id="FlashID" title="popcorngame">
+	<div>
+    	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="800" height="600" id="FlashID" title="popcorngame">
               <param name="movie" value="video/popcorngame2.swf" />
               <param name="quality" value="high" />
               <param name="wmode" value="opaque" />
@@ -135,7 +136,7 @@ include 'includes/wrapper-top.php';
     </object>
   </div>
 			
-</div>
+	</div>
 
         
     </div><!--end of content-->
