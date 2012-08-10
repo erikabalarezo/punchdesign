@@ -8,7 +8,8 @@ include 'includes/wrapper-top.php';
 	    <h2 class="webdesign">Web Design</h2>
     	<div class="maincontent">
 			<div class="webitem">
-				<h3>Title: <span class="titlewebitem">CJE Radio Station Home Page></span></h3>
+				<h3>Title: <span class="titlewebitem">CJE Radio Station Home Page</span></h3>
+				<p>Design for a home page of a college radio station.</p>
 				<h3 class="programsused">Programs Used:</h3>
 				<ul>
 					<li>Adobe Photoshop</li>
@@ -20,6 +21,7 @@ include 'includes/wrapper-top.php';
 			
 			<div class="designlast">
 				<h3>Title: <span class="titlewebitem">Ottawa Tour Kiosk</span></h3>
+				<p>Designed and developed an interactive kiosk that allows users to find Ottawa attractions providing their description and map location.</p>
 				<h3 class="programsused">Programs Used:</h3>
 				<ul>
 					<li>Adobe Photoshop</li>
