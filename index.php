@@ -14,9 +14,10 @@ include 'includes/wrapper-top.php';
     
             <p>Here, you will find a few of my creations and you can see it all in my work section.</p>
     
-            <p>Find me on <a href="http://www.facebook.com/erika.balarezo.520"><img src="images/fblogo.png" alt="facebook logo" /></a>
-			<span class="punch">facebook.</span></p>
-            <p>Follow me on <span class="punch">twitter.</span></p> 
+            <p>Find me on <a href="http://www.facebook.com/erika.balarezo.520" title="link to facebook Erika Balarezo"><img src="images/fblogo.png" alt="facebook logo" /></a>
+			
+            <p>Follow me on <a href="https://twitter.com/erika_balarezo" title="link to twitter Erika Balarezo"><img src="images/twitterlogo.png" alt="twitter logo" /></a>
+			
         </div>
         
          <h2 class="letscontact">Need a designer or web developer? Contact me!</h2>
