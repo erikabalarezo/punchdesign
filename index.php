@@ -14,7 +14,8 @@ include 'includes/wrapper-top.php';
     
             <p>Here, you will find a few of my creations and you can see it all in my work section.</p>
     
-            <p>Find me on <span class="punch">facebook.</span></p>
+            <p>Find me on <a href="http://www.facebook.com/erika.balarezo.520"><img src="images/fblogo.png" alt="facebook logo" /></a>
+			<span class="punch">facebook.</span></p>
             <p>Follow me on <span class="punch">twitter.</span></p> 
         </div>
         
