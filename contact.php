@@ -27,8 +27,8 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 	if(empty($errors)) {
 		echo 'Thank you, your message has been submitted!';
 		$formOk= true;
-		$headers = 'From: ' . $erika . ' <' . $erikaemail . '>';
-		mail($email, $mailsubject, $confirmmessage, $headers); 
+		$headers = 'From: ' . $name . ' <' . $email . '>';
+		mail($erikaemail, $mailsubject, $confirmmessage, $headers); 
 		
 	}
 	
