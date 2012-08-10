@@ -25,9 +25,11 @@ include 'includes/wrapper-top.php';
 		
 		<div>
 		<h3 class="programsused">Programs Used:</h3>
-			<p>Adobe Illustrator</p>
-			<p>Adobe Flash</p>
-			
+		<p>For all the designs.</p>
+		<ul>
+			<li>Adobe Illustrator</li>
+			<li>Adobe Flash</li>
+		</ul>
 		</div>
 	
 		
