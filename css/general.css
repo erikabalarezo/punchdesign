@@ -39,6 +39,7 @@ header {
 
 .logoholder {
 	height: 7em;
+	width: 7em;
 	/*background-color:#993;*/
 	/*background: #993 center no-repeat url(../images/logopunch.png);*/
 	text-align:center;

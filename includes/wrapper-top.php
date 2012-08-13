@@ -9,7 +9,7 @@
 <body>
 	<header>
     <div class="logoholder">
-    	<img src="images/logo.png" alt="punch logo">
+    	<a href="index.php" title="link to Home"><img src="images/logo.png" alt="punch logo"></a>
     </div>
 	<nav class="menu">
         <ul>
