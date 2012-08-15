@@ -18,6 +18,8 @@ include 'includes/wrapper-top.php';
 			
             <p>Follow me on <a href="https://twitter.com/erika_balarezo" title="link to twitter Erika Balarezo"><img src="images/twitterlogo.png" alt="twitter logo" /></a>
 			
+			<p>Follow me on <a href="http://www.linkedin.com/profile/view?id=199175367&locale=en_US&trk=tab_pro" title="link to linkedin Erika Balarezo"><img src="images/linkedinlogo.png" alt="linkedin logo" /></a>
+			
         </div>
         
          <h2 class="letscontact">Need a designer or web developer? Contact me!</h2>
