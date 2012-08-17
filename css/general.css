@@ -186,6 +186,19 @@ h2{
 	width:100%;
 	
 }
+
+.insidelink,
+.insidelink:link,
+.insidelink:visited {
+	text-decoration:none;
+	color: #F15A24;
+}
+
+.insidelink:hover,
+.insidelink:focus {
+	color:#808080;
+}
+
 footer {
 	background-color:#4D4D4D;
 	padding:1px 0;

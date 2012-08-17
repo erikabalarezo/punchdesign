@@ -22,16 +22,16 @@ include 'includes/wrapper-top.php';
 			
         </div>
         
-         <h2 class="letscontact">Need a designer or web developer? Contact me!</h2>
+         <h2 class="letscontact">Need a designer or web developer? <a class="insidelink" href="contact.php">Contact me!</a></h2>
         
         <div class="sidebar">
-        	<h2 class="recentwork">Recent Work</h2>
+        	<h2 class="recentwork"><a class = "insidelink" href="webdevelopment.php">Recent Work</a></h2>
             <div class="slidewrapper">
                 <div class="slideshow">
                     <div class="slides">
-                    <div class="slide"><img src="slides/slide-1.jpg" alt="Photo of Tazas Cafe coffeshop website"></div>
-                    <div class="slide"><img src="slides/slide-2.jpg" alt="Photo of CJE Radio Station website"></div>
-                    <div class="slide"><img src="slides/slide-3.jpg" alt="Photo of Favorite Toys website"></div>
+                    <div class="slide"><a href="webdevelopment.php"><img src="slides/slide-1.jpg" alt="Photo of Tazas Cafe coffeshop website"></a></div>
+                    <div class="slide"><a href="webdevelopment.php"><img src="slides/slide-2.jpg" alt="Photo of CJE Radio Station website"></a></div>
+                    <div class="slide"><a href="webdevelopment.php"><img src="slides/slide-3.jpg" alt="Photo of Favorite Toys website"></a></div>
                     </div>
                 </div>
             </div>
