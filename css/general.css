@@ -1,6 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
 
+article, aside, figure, footer, header, hgroup, nav, section {display: block;}
+
+
 html {
 	margin:0;
 	padding: 0;
@@ -37,8 +40,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#699b98', end
 	/*left: 46.4%;*/
 	left: 43.5%;
 	top: -1em;
+	
 }
 
+.logoholder img {
+	border:none;
+	size: 100%;
+}
 .backgradient {
 	height:5em;
 
@@ -47,6 +55,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#699b98', end
 .menu {
 	background-color:#4D4D4D;
 	text-align:center;
+	
 }
 .menu ul {
 	list-style-type:none;
@@ -117,7 +126,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#699b98', end
 	position: relative;
 }
 .maincontent {
-	width: 45%;
+	width: 40%;
+}
+
+.maincontent img {
+	border:none;
 }
 h1{
 	margin-bottom:0;
@@ -169,9 +182,11 @@ h2{
 }
 
 footer {
+	display: block;
 	background-color:#4D4D4D;
 	padding:1px 0;
 	clear:both;
+	width: 100%;
 	
 }
 .rights {
@@ -212,6 +227,7 @@ footer {
   padding: 0;
   position: absolute;
   width: 1350px;
+  border: none;
 }
 
 .slide {
@@ -222,11 +238,13 @@ footer {
   padding: 0;
   position: relative;
  width: 455px;
+	border: none;
 
 }
 
 .slide .img {
   width: 100%;
+  border:none;
 
  }
 /*****************************************************/
@@ -274,6 +292,7 @@ footer {
 	position:absolute;
 	top: 2em;
 	left: 0;
+	border:none;
 }
 
 .thumbs a,
@@ -354,7 +373,7 @@ footer {
 }
 
 .imgdevelopment{
-	margin-top: 4em;
+	margin-top: 5em;
 }
 
 
