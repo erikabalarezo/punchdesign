@@ -5,8 +5,6 @@ html {
 	margin:0;
 	padding: 0;
 	background-color:#E2E2E2;
-	/*#FA6D54;*/
-	/*#F8A595;*/
 	color: #666666;
 	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
 	font-size:120%;
@@ -137,7 +135,6 @@ h2{
 	
 	padding-right: 9.3em;
 	margin: 0;
-	/*padding-bottom:1em;*/
 	padding-bottom:0.8em;
 }
 .punch {
@@ -149,12 +146,10 @@ h2{
 	padding-top:4em;
 }
 .sidebar {
-	
 	position:absolute;
 	top: 6.5em;
 	right: 5%;
 	width: 54%;
-	
 }
 .recentwork {
 	width:100%;
@@ -193,22 +188,13 @@ footer {
 	overflow: hidden;
 }
 .slideshow {
-  /*height: 402px;*/
   height: 338px;
   margin: 0 0 1.3em;
- 
-  
- 
- 
   overflow: hidden;
   padding: 0;
-  /*padding: 4px 0;*/
   position: relative;
 
   background-color: #fff;
-  /*border: 8px solid  #999999;*/
-  /*border-bottom: 1px solid #edbb37;
-  border-top: 1px solid #edbb37;*/
   -moz-box-shadow: 0 -1px 0 #eeecd4, 0 1px 0 #eeecd4;
   -webkit-box-shadow: 0 -1px 0 #eeecd4, 0 1px 0 #eeecd4;
   box-shadow: 0 -1px 0 #eeecd4, 0 1px 0 #eeecd4;
@@ -225,7 +211,6 @@ footer {
   margin: 0;
   padding: 0;
   position: absolute;
-  /*width: 20000em;*/
   width: 1350px;
 }
 
@@ -235,9 +220,7 @@ footer {
   height: 400px;
   margin: 0;
   padding: 0;
-  
   position: relative;
-  /*width: 760px;*/
  width: 455px;
 
 }
@@ -250,7 +233,6 @@ footer {
 /*CSS for work.html*/
 .work {
 	width: 100%;
-	/*width: 1000px;*/
 }
 .worknav {
 	width: 100%;
@@ -259,7 +241,6 @@ footer {
 }
 .worknav ul {
 	list-style-type:none;
-	/*display:inline-block;*/
 	margin:0;
 	padding:0;
 	
@@ -268,23 +249,16 @@ footer {
 
 .worknav li {
 	display: inline;
-	/*text-decoration:none;*/
 	padding-bottom:1em;
-	
-	
 }
 .worknav a,
 .worknav a:link,
 .worknav a:visited {
 	display: inline-block;
-	/*color: #B1E0DD;*/
 	color:#F15A24;
 	text-decoration:none;
-	/*text-transform:uppercase;*/
 	font-weight:bold;
-
 	font-size:120%;
-	/*padding-right: 2em;*/
 	width: 250px;
 	height: 220px;
 	position:relative;
@@ -387,7 +361,6 @@ footer {
 /*****************************************************/
 /*CSS for contact.php*/
 .allcontact {
-	/*width: 100%;*/
 	padding-top: 2em;
 }
 
@@ -413,10 +386,8 @@ footer {
 	float:left;
 }
 form {
-	/*border: 2px solid rgba(153,153,153,1);*/
 	padding: 1em 1em 4em 1em;
 	background-color:#FA6D54;
-	/*background-color:#F8A595;*/
 	margin-bottom: 2em;
 	width: 70%;
 	border: 2px solid  #999999;
@@ -473,7 +444,6 @@ button {
 	width: 72%;
 	margin-top: 2em;
 	margin-bottom: 8em;
-	/*-right: 6em;*/
 }
 
 object {
