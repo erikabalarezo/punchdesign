@@ -8,7 +8,6 @@ html {
 	/*#FA6D54;*/
 	/*#F8A595;*/
 	color: #666666;
-	/*font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;*/
 	font-family: "Century Gothic", Arial, Helvetica, sans-serif;
 	font-size:120%;
 	width:100%;
@@ -153,13 +152,9 @@ h2{
 	
 	position:absolute;
 	top: 6.5em;
-	/*top: 4.50em;*/
-	/*top: 3.5em;*/
-	/*right: 1.5em;*/
 	right: 5%;
 	width: 54%;
-	/*width: 45%;*/
-	/*width: 450px;*/
+	
 }
 .recentwork {
 	width:100%;
